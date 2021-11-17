@@ -1,3 +1,4 @@
-# MTCStore
+# DockerizedMagento2
+
 
 .....
